@@ -5,6 +5,7 @@ sdf
 gsgds
 
 1 write
+1 write two
 
 --
 2xieru something

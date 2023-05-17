@@ -6,6 +6,7 @@ gsgds
 
 1 write
 1 write two
+1 write three
 
 --
 2xieru something

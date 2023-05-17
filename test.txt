@@ -4,6 +4,8 @@ sdf
 Ê¿´ó·ò
 gsgds
 
+1 write
+
 --
 2xieru something
 2 write else
